@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My shopping list</string>
+    <string name="about_title">About app</string>
+    <string name="about_text">This application is a useful and simple shopping list for your phone.
+Do you often make shopping lists? If you do, this app made exactly for you!
+This is useful and simple way of making out a shopping list on your phone. You can input items from keyboard, add from database, filled by you, by barcode scanning and even using your voice! Also, you can mark out important purchases in the list. You just have to tap an item to mark it as "bought".
+We hope that this app will expand your phone and make your shopping easier</string>
+</resources>
